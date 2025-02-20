@@ -155,8 +155,4 @@ B.Carlos       Lake view            7         875.00
 Average Room Charge                            505.00
 Press any key to continue . . .
 
-C:\Users\angel\OneDrive\Escritorio\St lawrence\Computer_System_Technician\1st semester\Programming_1_C++\week_9\assigment2_hotel_rooms\x64\Debug\assigment2_hotel_rooms.exe(process 51080) exited with code 0 (0x0).
-To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
-Press any key to close this window . . .
-
 **********************************************************/
